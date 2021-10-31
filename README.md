@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prem-kumar--from -Presidency University
+- 👋 Hi, I’m @Prem-kumar
 - 👀 I’m interested in Cyber security,Data analysis
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Data science
